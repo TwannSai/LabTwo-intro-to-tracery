@@ -1,0 +1,49 @@
+{
+	"name": [
+		"Naruto",
+		"Sasuke",
+		"Sakura",
+		"Deku",
+		"All Might",
+		"Bakugo"
+	],
+	"occupation": [
+		"Ninja",
+		"Assassin",
+		"healer",
+		"Hero",
+		"Student",
+		"Villain"
+	],
+	"origin": [
+		"#name# a #occupation#, was #always# #expecting# this #Random.#",
+		"A #person# wrestles #Random#, you #clickbait# the outcome. "
+	],
+	"always": [
+		"rarely",
+		"never",
+		"sometimes",
+		"often"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"awaiting",
+		"hoping"
+	],
+	"Random": [
+		"magical pony",
+		"majestic pigeon",
+		"all mighty squirrel",
+		"chewbacca"
+	],
+	"person": [
+		"man",
+		"woman",
+		"child"
+	],
+	"clickbait": [
+		"don't want to miss",
+		"won't believe"
+	]
+}
