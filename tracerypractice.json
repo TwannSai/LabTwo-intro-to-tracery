@@ -17,7 +17,8 @@
 	],
 	"origin": [
 		"#name# a #occupation#, was #always# #expecting# this #Random.#",
-		"A #person# wrestles #Random#, you #clickbait# the outcome. "
+		"A #person# wrestles #Random#, you #clickbait# the outcome. ",
+		"Free #valuables#, just #request# #social platform.# now!"
 	],
 	"always": [
 		"rarely",
@@ -45,5 +46,20 @@
 	"clickbait": [
 		"don't want to miss",
 		"won't believe"
+	],
+	"valuables": [
+		"money",
+		"samsung 4K TV",
+		"games",
+		"iphone X"
+	],
+	"social platform": [
+		"YouTube channel",
+		"Twitter",
+		"Instagram"
+	],
+	"request": [
+		"follow me on",
+		"subscribe to my"
 	]
 }
