@@ -17,8 +17,8 @@
 	],
 	"origin": [
 		"#name# a #occupation#, was #always# #expecting# this #Random.#",
-		"A #person# wrestles #Random#, you #clickbait# the outcome. ",
-		"Free #valuables#, just #request# #social platform.# now!"
+		"A #person# tries to hug #Random# and you #clickbait# the outcome. ",
+		"Enter for a chance to win free #valuables# by #request# #social platform# now!"
 	],
 	"always": [
 		"rarely",
@@ -59,7 +59,7 @@
 		"Instagram"
 	],
 	"request": [
-		"follow me on",
-		"subscribe to my"
+		"following me on",
+		"subscribing to my"
 	]
 }
